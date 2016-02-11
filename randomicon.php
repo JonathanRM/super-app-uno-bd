@@ -1,8 +1,8 @@
 <?php
 
 $datosconexion = array(
-	"servername" => "", 		// PON AQUI LA IP DE TU SERVIDOR
-	"username" => "", 			// PON AQUI EL USUARIO DE LA BD
+	"servername" => "40.118.69.218", 		// PON AQUI LA IP DE TU SERVIDOR
+	"username" => "root", 			// PON AQUI EL USUARIO DE LA BD
 	"password" => "", 			// PON AQUI LA CONTRASEÑA DE LA BD
 	"dbname" => "log"
 	);
